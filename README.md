@@ -9,11 +9,11 @@ Dapat melihat detail pinjaman ketika di klik
 Terdapat Kendala pada pengambilan data dropdown list sehingga untuk penampilan data pinjaman dilakukan secara manual oleh developer
 
 Contoh data pinjaman 1  
-![alt text]([http://url/to/img.png](https://github.com/Ahmad1321/Quis3-Provis/blob/main/Screenshot%20(38).png))
+![alt text](https://github.com/Ahmad1321/Quis3-Provis/blob/main/Screenshot%20(38).png)
 
 Contoh data pinjaman 2  
-![alt text]([http://url/to/img.png](https://github.com/Ahmad1321/Quis3-Provis/blob/main/Screenshot%20(39).png))
+![alt text](https://github.com/Ahmad1321/Quis3-Provis/blob/main/Screenshot%20(39).png)
 
 Contoh data pinjaman 2  
-![alt text]([http://url/to/img.png](https://github.com/Ahmad1321/Quis3-Provis/blob/main/Screenshot%20(40).png))
+![alt text](https://github.com/Ahmad1321/Quis3-Provis/blob/main/Screenshot%20(40).png)
 
