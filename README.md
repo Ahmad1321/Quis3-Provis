@@ -2,7 +2,7 @@
 
 # 2003688,Rahma Maulida; 2007235, Hilman Ahmad Rusydi; Saya berjanji tidak akan berbuat curang data atau membantu orang lain berbuat curang
 
-#Yang bisa dilakukan
+## Yang bisa dilakukan
 Dapat melihat detail pinjaman ketika di klik
 
 ## Kendala
